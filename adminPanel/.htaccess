@@ -1,0 +1,9 @@
+<IfModule mod_rewrite.c>
+   RewriteEngine on
+     DirectoryIndex dashboard.php             #this is for default calling page
+     RewriteCond %{REQUEST_FILENAME} !-d
+	 RewriteCond %{REQUEST_FILENAME} !-f
+	 RewriteRule (.*) $1.php [L]
+</IfModule>
+
+

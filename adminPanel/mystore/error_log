@@ -1,0 +1,22 @@
+[22-Oct-2018 18:08:00 Asia/Kolkata] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/rxh7u5gl7r33/public_html/uwmrecycle.com/adminPanel/models/adminModel/storeModel.php on line 29
+[22-Oct-2018 18:08:00 Asia/Kolkata] PHP Notice:  Undefined index: storeEmail in /home/rxh7u5gl7r33/public_html/uwmrecycle.com/adminPanel/mystore/store.php on line 78
+[22-Oct-2018 18:08:00 Asia/Kolkata] PHP Notice:  Undefined index: storeNumber in /home/rxh7u5gl7r33/public_html/uwmrecycle.com/adminPanel/mystore/store.php on line 82
+[22-Oct-2018 18:08:00 Asia/Kolkata] PHP Notice:  Undefined index: storeAddress in /home/rxh7u5gl7r33/public_html/uwmrecycle.com/adminPanel/mystore/store.php on line 86
+[22-Oct-2018 18:08:00 Asia/Kolkata] PHP Notice:  Undefined index: storeAddress2 in /home/rxh7u5gl7r33/public_html/uwmrecycle.com/adminPanel/mystore/store.php on line 89
+[22-Oct-2018 18:08:00 Asia/Kolkata] PHP Notice:  Undefined index: mailingEmails in /home/rxh7u5gl7r33/public_html/uwmrecycle.com/adminPanel/mystore/store.php on line 93
+[22-Oct-2018 18:08:00 Asia/Kolkata] PHP Notice:  Undefined index: storeNumber in /home/rxh7u5gl7r33/public_html/uwmrecycle.com/adminPanel/mystore/store.php on line 129
+[22-Oct-2018 18:08:00 Asia/Kolkata] PHP Notice:  Undefined index: storeEmail in /home/rxh7u5gl7r33/public_html/uwmrecycle.com/adminPanel/mystore/store.php on line 132
+[22-Oct-2018 18:08:00 Asia/Kolkata] PHP Notice:  Undefined index: storeAddress in /home/rxh7u5gl7r33/public_html/uwmrecycle.com/adminPanel/mystore/store.php on line 135
+[22-Oct-2018 18:08:00 Asia/Kolkata] PHP Notice:  Undefined index: storeAddress2 in /home/rxh7u5gl7r33/public_html/uwmrecycle.com/adminPanel/mystore/store.php on line 138
+[22-Oct-2018 18:08:00 Asia/Kolkata] PHP Notice:  Undefined index: mailingEmails in /home/rxh7u5gl7r33/public_html/uwmrecycle.com/adminPanel/mystore/store.php on line 141
+[22-Oct-2018 18:08:51 Asia/Kolkata] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/rxh7u5gl7r33/public_html/uwmrecycle.com/adminPanel/models/adminModel/storeModel.php on line 29
+[22-Oct-2018 18:08:51 Asia/Kolkata] PHP Notice:  Undefined index: storeEmail in /home/rxh7u5gl7r33/public_html/uwmrecycle.com/adminPanel/mystore/store.php on line 78
+[22-Oct-2018 18:08:51 Asia/Kolkata] PHP Notice:  Undefined index: storeNumber in /home/rxh7u5gl7r33/public_html/uwmrecycle.com/adminPanel/mystore/store.php on line 82
+[22-Oct-2018 18:08:51 Asia/Kolkata] PHP Notice:  Undefined index: storeAddress in /home/rxh7u5gl7r33/public_html/uwmrecycle.com/adminPanel/mystore/store.php on line 86
+[22-Oct-2018 18:08:51 Asia/Kolkata] PHP Notice:  Undefined index: storeAddress2 in /home/rxh7u5gl7r33/public_html/uwmrecycle.com/adminPanel/mystore/store.php on line 89
+[22-Oct-2018 18:08:51 Asia/Kolkata] PHP Notice:  Undefined index: mailingEmails in /home/rxh7u5gl7r33/public_html/uwmrecycle.com/adminPanel/mystore/store.php on line 93
+[22-Oct-2018 18:08:51 Asia/Kolkata] PHP Notice:  Undefined index: storeNumber in /home/rxh7u5gl7r33/public_html/uwmrecycle.com/adminPanel/mystore/store.php on line 129
+[22-Oct-2018 18:08:51 Asia/Kolkata] PHP Notice:  Undefined index: storeEmail in /home/rxh7u5gl7r33/public_html/uwmrecycle.com/adminPanel/mystore/store.php on line 132
+[22-Oct-2018 18:08:51 Asia/Kolkata] PHP Notice:  Undefined index: storeAddress in /home/rxh7u5gl7r33/public_html/uwmrecycle.com/adminPanel/mystore/store.php on line 135
+[22-Oct-2018 18:08:51 Asia/Kolkata] PHP Notice:  Undefined index: storeAddress2 in /home/rxh7u5gl7r33/public_html/uwmrecycle.com/adminPanel/mystore/store.php on line 138
+[22-Oct-2018 18:08:51 Asia/Kolkata] PHP Notice:  Undefined index: mailingEmails in /home/rxh7u5gl7r33/public_html/uwmrecycle.com/adminPanel/mystore/store.php on line 141
